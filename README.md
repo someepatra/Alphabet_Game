@@ -27,7 +27,8 @@ This project was build with rails server and react.
 
 
 <h3> Entity Relationship Diagram </h3>
-<img width="938" alt="Screen Shot 2019-12-11 at 7 04 53 AM" src="https://user-images.githubusercontent.com/50890918/70620245-ba481100-1be4-11ea-9761-7c17d9948be2.png">
+
+<img width="938" alt="Screen Shot 2019-12-11 at 7 04 53 AM" src="https://user-images.githubusercontent.com/50890918/71186852-eea67780-224b-11ea-8127-ffd5147216ef.png">
 
 
 
